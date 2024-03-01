@@ -1,0 +1,89 @@
+body {
+  height: 100%;
+  width: 100%;
+}
+img{
+  width: 20%;
+  height: 20%;
+  top: 20%;
+  position: relative;
+  z-index: 1;
+}
+.sloupec1radek1 {
+  text-align:center;
+  color: #66CDAA;
+  position: relative;
+  bottom: 140px;
+  font-size: 25px;
+  font-family:cursive
+}
+.sloupec1radek2 {
+  text-align:center;
+  color: #66CDAA;
+  font-size: 30px;
+  position: relative;
+  bottom: 150px;
+  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.sloupec1radek3 {
+  text-align:center;
+  color: #FFD700;
+  position: relative;
+  bottom: 150px;
+  font-size: 25px;
+  font-family:cursive
+}
+.sloupec1radek4 {
+  position: relative;
+  top:50px;
+  margin-right: 800px;
+  font-family:cursive;
+  font-size:30px
+}
+.sloupec1radek5 {
+  position: relative;
+  top:50px;
+  margin-right: 800px;
+  font-family:cursive;
+  font-size:30px
+}
+.sloupec1radek6 {
+  position:relative;
+  top:50px;
+  font-size:30px;
+  margin-right: 800px;
+}
+.sloupec1radek7 {
+  position:relative;
+  top:50px;
+  font-size:30px;
+  margin-right: 800px;
+}
+.sloupec2telefon {
+  position: relative;
+  height: 200px;
+  width: 200px;
+  margin-left: 1000px;
+  bottom: 265px;
+}
+.sloupec2kontakt {
+  position: relative;
+  margin-left: 550px;
+  bottom: 460px;
+  font-family:cursive;
+  font-size:30px;
+}
+.sloupec2radek2 {
+  position: relative;
+  margin-left: 1000px;
+  bottom: 400px;
+  font-family:cursive;
+  font-size:30px;
+}
+.sloupec2email {
+  position: relative;
+  margin-left: 800px;
+  bottom: 550px;
+  font-family:cursive;
+  font-size:30px;
+}
